@@ -1,1 +1,1 @@
-# Mazinger-Z
+# Ejemplos hechos con Hippani Animator para CMI
